@@ -5,3 +5,8 @@ Audit an AI agent's stacked rule layers (identity/instruction/memory/skills) for
 Cross-agent `SKILL.md` (YAML frontmatter + markdown instructions). Install: copy this folder into your agent's skills directory (e.g. `~/.claude/skills/`, `~/.cod/skills/`); any SKILL.md-compatible agent loads it automatically.
 
 License: MIT.
+
+## More from this creator (paid)
+
+- **Vault Inbox Triage** - safe triage ritual for Obsidian/markdown knowledge vaults.
+- **Evidence Packets** - before/after proof artifacts for agent-made infra changes.
